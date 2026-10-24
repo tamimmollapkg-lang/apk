@@ -1,0 +1,15 @@
+{
+  "name": "flag-smashers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Country flag elimination battle game",
+  "scripts": {
+    "sync": "cap sync android",
+    "apk": "cap sync android && cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  }
+}

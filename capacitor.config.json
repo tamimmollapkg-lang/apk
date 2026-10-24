@@ -1,0 +1,7 @@
+{
+  "appId": "com.tamim.flagsmashers",
+  "appName": "Flag Smashers",
+  "webDir": "www",
+  "backgroundColor": "#0b1020",
+  "android": { "allowMixedContent": false }
+}
